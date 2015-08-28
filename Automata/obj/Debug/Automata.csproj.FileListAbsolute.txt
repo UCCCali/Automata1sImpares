@@ -1,0 +1,6 @@
+C:\Users\JuanGuillermo\Desktop\Automata\Automata\bin\Debug\Automata.exe.config
+C:\Users\JuanGuillermo\Desktop\Automata\Automata\bin\Debug\Automata.exe
+C:\Users\JuanGuillermo\Desktop\Automata\Automata\bin\Debug\Automata.pdb
+C:\Users\JuanGuillermo\Desktop\Automata\Automata\obj\Debug\Automata.csprojResolveAssemblyReference.cache
+C:\Users\JuanGuillermo\Desktop\Automata\Automata\obj\Debug\Automata.exe
+C:\Users\JuanGuillermo\Desktop\Automata\Automata\obj\Debug\Automata.pdb
